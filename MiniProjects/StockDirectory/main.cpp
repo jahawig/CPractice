@@ -1,7 +1,3 @@
-// Name: Jacob Hawig
-// WISC ID: 9078102226
-// Assignment #5
-
 # include <cstdlib>
 # include <ctime>
 # include <iostream>

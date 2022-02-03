@@ -1,7 +1,3 @@
-// Name: Jacob Hawig
-// WISC ID: 9078102226
-// Assignment #6
-
 #ifndef NorthAmericanMember_HEADER
 #define NorthAmericanMember_HEADER
 

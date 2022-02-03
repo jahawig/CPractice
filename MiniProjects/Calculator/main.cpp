@@ -1,6 +1,3 @@
-// Name: Jacob Hawig
-// WISC ID: 9078102226
-
 # include <iostream>
 # include "functions.h"
 

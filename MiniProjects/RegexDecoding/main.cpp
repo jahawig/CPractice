@@ -1,7 +1,3 @@
-// Name: Jacob Hawig
-// WISC ID: 9078102226
-// Assignment #7
-
 // Just a heads for testing, make sure I switch out the files
 # include <utility>
 # include <iostream>

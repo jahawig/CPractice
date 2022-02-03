@@ -1,6 +1,3 @@
-// Name: Jacob Hawig
-// WISC ID: 9078102226
-
 #ifndef GEO_FUNCTIONS
 #define GEO_FUNCTIONS
 float AreaOfCircle(const float& radius);
